@@ -1,0 +1,14 @@
+[
+  {
+    "id": "case-01",
+    "jd": "Senior Backend Engineer\n\nWe are looking for a Senior Backend Engineer with 5+ years of experience with Node.js and distributed systems. Required: strong experience with PostgreSQL, REST API design, and CI/CD. Bonus points for Kubernetes experience. You will mentor junior engineers and collaborate cross-functionally.",
+    "company_url": "https://www.gitlab.com",
+    "days": 5
+  },
+  {
+    "id": "case-02",
+    "jd": "Software Engineer. Must know JavaScript.",
+    "company_url": "https://example.com",
+    "days": 1
+  }
+]
